@@ -62,18 +62,18 @@ CONTROLNET_MODELS=(
 DIFFUSION_MODELS=(
         "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-14b-480p-Q3_K_S.gguf"
         "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-14b-480p-Q5_K_M.gguf"
-        "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-14b-480p-Q8_0.gguf"
+        #"https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-14b-480p-Q8_0.gguf"
         "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-720p-Q3_K_S.gguf"
         "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-720p-Q5_K_M.gguf"
-        "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-720p-Q8_0.gguf"
-        "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/diffusion_models/WAN/wan2.1_i2v_720p_14B_fp8_e4m3fn.safetensors"
-        "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/diffusion_models/WAN/wan2.1_i2v_480p_14B_fp8_e4m3fn.safetensors"
+        #"https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/unet/WAN/wan2.1-i2v-720p-Q8_0.gguf"
+        #"https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/diffusion_models/WAN/wan2.1_i2v_720p_14B_fp8_e4m3fn.safetensors"
+        #"https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/diffusion_models/WAN/wan2.1_i2v_480p_14B_fp8_e4m3fn.safetensors"
 )
 CLIP_MODELS=(
     "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/clip/umt5-xxl-encoder-Q3_K_S.gguf"
     "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/clip/umt5-xxl-encoder-Q5_K_M.gguf"
-    "https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/clip/umt5-xxl-encoder-Q8_0.gguf"
-    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+    #"https://huggingface.co/UmeAiRT/ComfyUI-Auto_installer/resolve/main/models/clip/umt5-xxl-encoder-Q8_0.gguf"
+    #"https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
 )
 
 CLIP_VISION_MODELS=(
